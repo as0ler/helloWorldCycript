@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1FD6A1E5-C23F-4740-8AEE-C9BAD241AF61</string>
+	<key>IDESourceControlProjectName</key>
+	<string>helloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E7727F1176F62DE4D4B1BB40183616F4500B7469</key>
+		<string>https://github.com/as0ler/helloWorldCycript.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>helloWorld.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E7727F1176F62DE4D4B1BB40183616F4500B7469</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/as0ler/helloWorldCycript.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E7727F1176F62DE4D4B1BB40183616F4500B7469</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E7727F1176F62DE4D4B1BB40183616F4500B7469</string>
+			<key>IDESourceControlWCCName</key>
+			<string>helloWorldCycript</string>
+		</dict>
+	</array>
+</dict>
+</plist>
