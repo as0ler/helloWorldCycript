@@ -14,9 +14,9 @@
 		0D1ED6191AE5A5F400346E72 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D1ED6171AE5A5F400346E72 /* LaunchScreen.xib */; };
 		0D1ED6251AE5A5F400346E72 /* helloWorldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1ED6241AE5A5F400346E72 /* helloWorldTests.m */; };
 		0D1ED62F1AE5A67B00346E72 /* 1686206.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D1ED62E1AE5A67B00346E72 /* 1686206.jpg */; };
-		0D1ED6311AE5A97B00346E72 /* funny_cats_tongue.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D1ED6301AE5A97B00346E72 /* funny_cats_tongue.jpg */; };
+		0D1ED6311AE5A97B00346E72 /* tongue-cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D1ED6301AE5A97B00346E72 /* tongue-cat.jpg */; };
 		0D1ED6371AE6C01400346E72 /* HelloWorldViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1ED6361AE6C01400346E72 /* HelloWorldViewController.m */; };
-		0D1ED6391AE6D8F100346E72 /* happycat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D1ED6381AE6D8F100346E72 /* happycat.jpg */; };
+		0D1ED6391AE6D8F100346E72 /* 123cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D1ED6381AE6D8F100346E72 /* 123cat.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,11 +41,11 @@
 		0D1ED61E1AE5A5F400346E72 /* helloWorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = helloWorldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D1ED6231AE5A5F400346E72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D1ED6241AE5A5F400346E72 /* helloWorldTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = helloWorldTests.m; sourceTree = "<group>"; };
-		0D1ED62E1AE5A67B00346E72 /* 1686206.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1686206.jpg; path = ../../../../../../../Users/murphy/Downloads/1686206.jpg; sourceTree = "<group>"; };
-		0D1ED6301AE5A97B00346E72 /* funny_cats_tongue.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = funny_cats_tongue.jpg; path = ../../../../../../../Users/murphy/Downloads/funny_cats_tongue.jpg; sourceTree = "<group>"; };
+		0D1ED62E1AE5A67B00346E72 /* 1686206.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1686206.jpg; sourceTree = SOURCE_ROOT; };
+		0D1ED6301AE5A97B00346E72 /* tongue-cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tongue-cat.jpg"; sourceTree = SOURCE_ROOT; };
 		0D1ED6351AE6C01400346E72 /* HelloWorldViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HelloWorldViewController.h; path = ../HelloWorldViewController.h; sourceTree = "<group>"; };
 		0D1ED6361AE6C01400346E72 /* HelloWorldViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HelloWorldViewController.m; path = ../HelloWorldViewController.m; sourceTree = "<group>"; };
-		0D1ED6381AE6D8F100346E72 /* happycat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = happycat.jpg; path = ../../../../../../../Users/murphy/Downloads/happycat.jpg; sourceTree = "<group>"; };
+		0D1ED6381AE6D8F100346E72 /* 123cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 123cat.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,9 +69,6 @@
 		0D1ED5FC1AE5A5F400346E72 = {
 			isa = PBXGroup;
 			children = (
-				0D1ED6381AE6D8F100346E72 /* happycat.jpg */,
-				0D1ED6301AE5A97B00346E72 /* funny_cats_tongue.jpg */,
-				0D1ED62E1AE5A67B00346E72 /* 1686206.jpg */,
 				0D1ED6071AE5A5F400346E72 /* helloWorld */,
 				0D1ED6211AE5A5F400346E72 /* helloWorldTests */,
 				0D1ED6061AE5A5F400346E72 /* Products */,
@@ -90,6 +87,9 @@
 		0D1ED6071AE5A5F400346E72 /* helloWorld */ = {
 			isa = PBXGroup;
 			children = (
+				0D1ED6381AE6D8F100346E72 /* 123cat.jpg */,
+				0D1ED6301AE5A97B00346E72 /* tongue-cat.jpg */,
+				0D1ED62E1AE5A67B00346E72 /* 1686206.jpg */,
 				0D1ED6351AE6C01400346E72 /* HelloWorldViewController.h */,
 				0D1ED6361AE6C01400346E72 /* HelloWorldViewController.m */,
 				0D1ED60C1AE5A5F400346E72 /* AppDelegate.h */,
@@ -208,8 +208,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D1ED6311AE5A97B00346E72 /* funny_cats_tongue.jpg in Resources */,
-				0D1ED6391AE6D8F100346E72 /* happycat.jpg in Resources */,
+				0D1ED6311AE5A97B00346E72 /* tongue-cat.jpg in Resources */,
+				0D1ED6391AE6D8F100346E72 /* 123cat.jpg in Resources */,
 				0D1ED6141AE5A5F400346E72 /* Main.storyboard in Resources */,
 				0D1ED6191AE5A5F400346E72 /* LaunchScreen.xib in Resources */,
 				0D1ED6161AE5A5F400346E72 /* Images.xcassets in Resources */,

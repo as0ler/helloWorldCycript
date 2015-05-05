@@ -30,7 +30,7 @@
 {
     if ([self iAmHungry])
     {
-        self.catImage.image = [UIImage imageNamed:@"happycat.jpg"];
+        self.catImage.image = [UIImage imageNamed:@"123cat.jpg"];
     }
 }
 
